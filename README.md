@@ -23,9 +23,9 @@ During the making of dashboard, I applied the following DAX measures for the fol
 Types of Programs, MHD Types, SUD Types, Average of Daily Living Activity Test
 
 ## Visualization in Power BI:
-I splitted the pages namely in 2 pages which are ####Overview & ####Detailed Analysis". 
-####Overview page contains key headlines and recommendations about the dataset according to Detailed Analysis of the dataset.
-####Detailed Analysis page contains detailed program analysis, mental health analysis and substance abuse analysis on the basis of factors discussed above.
+I splitted the pages namely in 2 pages which are #### Overview & #### Detailed Analysis". 
+#### Overview page contains key headlines and recommendations about the dataset according to Detailed Analysis of the dataset.
+#### Detailed Analysis page contains detailed program analysis, mental health analysis and substance abuse analysis on the basis of factors discussed above.
 
 ### Theme and Color Palette:
 * Background color used for the dashboard is green.
