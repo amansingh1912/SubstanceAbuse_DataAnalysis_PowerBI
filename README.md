@@ -23,7 +23,7 @@ During the making of dashboard, I applied the following DAX measures for the fol
 Types of Programs, MHD Types, SUD Types, Average of Daily Living Activity Test
 
 ## Visualization in Power BI:
-I splitted the pages namely in 2 pages which are 
+I splitted the pages namely in 2 pages which are:
 #### Overview  
 #### Detailed Analysis
 * Overview page contains key headlines and recommendations about the dataset according to Detailed Analysis of the dataset.
