@@ -39,7 +39,7 @@ Here, I used Figma for creating layout for background which is 16:9 with 720*128
 ## Conclusion:
 Overall, it was good dataset to visualize and it improved my understanding of using graphs, coming up with relevant questions and coming up with insights.
 
-## [Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYmFjMDI4MmUtZmQyYi00MWQ1LWFjZTUtMTJkNTdkMWMyMjEwIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9&pageName=ReportSection19e0841a9bc56c5b4320)
+## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFjMDI4MmUtZmQyYi00MWQ1LWFjZTUtMTJkNTdkMWMyMjEwIiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9&pageName=ReportSection19e0841a9bc56c5b4320)
 
 
 
