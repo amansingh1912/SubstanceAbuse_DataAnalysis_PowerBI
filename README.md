@@ -31,7 +31,7 @@ I splitted the pages namely in 2 pages which are:
 
 ### Theme and Color Palette:
 * Background color used for the dashboard is green.
-* Colors used: Green, white, orange and blue.
+* Colors used: Green shades, white, shades of orange, blue and grey.
 
 ### Visualization:
 Here, I used Figma for creating layout for background which is 16:9 with 720*1280px
