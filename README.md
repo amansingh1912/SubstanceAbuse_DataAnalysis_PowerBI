@@ -1,4 +1,6 @@
 # Health Care Substance Abuse Data Analysis in Power BI
+## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTNiZTgwNGQtYzgxNi00ZmU3LTliOTUtOWU0NDUwZjA2NTA1IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9&pageName=ReportSection015dfb0948f112ce6dc1)
+
 It is one of the latest challenge of EDNA23 which is regarding Substance Abuse in HealthCare Sector.
 ![Substance Abuse Data Analysis](https://user-images.githubusercontent.com/72240938/192832661-9a1dd01a-a631-4cfe-9042-80111d98b55c.jpg)
 
